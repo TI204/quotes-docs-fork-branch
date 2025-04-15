@@ -21,6 +21,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 # Quotes Documentation
 
+
 Contributeur : Dylan Hamadouche  
 Fork GitHub : https://github.com/DylanBlk/Dylanblk
 =======
