@@ -1,3 +1,9 @@
+site_name: Demo MkDOcs
+
+nav:
+  - Home: index.md
+  - Features: features.md
+=======
 site_name: Documentation Programming Quotes fork branch
 nav:
   - Home: index.md

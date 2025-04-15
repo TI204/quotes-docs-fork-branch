@@ -14,6 +14,8 @@ Clone the repository and run the following command to start the application:
 $ git clone <url-du-TP4/quotes>
 $ cd quotes
 $ python main.py
+
+=======
 ```
 ---
 
