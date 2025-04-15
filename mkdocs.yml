@@ -1,5 +1,2 @@
 site_name: Documentation Programming Quotes fork branch
 
-nav:
-  - Home: index.md
-  - Features: features.md
