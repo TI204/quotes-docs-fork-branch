@@ -1,3 +1,4 @@
+site_name: Documentation Programming Quotes [fork-branch]
 nav:
   - Home: index.md
   - User's Guide:
