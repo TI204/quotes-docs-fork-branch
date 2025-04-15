@@ -1,9 +1,9 @@
+# Documentation Programming Quotes [nom-groupe]
 
-=======
-=======
-# Welcome to MkDocs
+Programming Quotes est petite application qui permet d'afficher des citations humouristique de programmeurs. 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Membres du groupe
+
 
 ## Commands
 
@@ -26,3 +26,6 @@ Contributeur : Dylan Hamadouche
 Fork GitHub : https://github.com/DylanBlk/Dylanblk
 =======
         index.md  # The documentation homepage.
+=======
+* Contributeur-1 : Dylan Hamadouche [https://github.com/DylanBlk/Dylanblk](https://github.com/DylanBlk/Dylanblk)
+
