@@ -4,9 +4,7 @@
 
 Contributeur-1 : Dylan Hamadouche  
 Fork GitHub : https://github.com/DylanBlk/Dylanblk
-=======
-=======
-=======
+
 # Solutions de l'évaluation notée 2 du groupe fork branch
 
 Solutions de l'évaluation notée 2 du groupe fork branch à l'aide de MkDocs.
